@@ -1,0 +1,263 @@
+
+.wrapper_one{
+    height: 600px;
+    background-image: url("./img/Bitmap.jpg");
+    margin: 40px auto 30px;
+    border-radius: 10px;
+    padding-left: 100px;
+    padding-top: 100px;
+
+}
+.wrapper_one h1{
+    width: 493px;
+height: 145px;
+
+    color: #FEFCF7;
+font-size: 72px;
+font-family: Fraunces 9pt;
+font-weight: 900;
+line-height: 72px;
+word-wrap: break-word
+}
+.wrapper_one p{
+    width: 445px;
+height: 78px;
+top: 177px;
+opacity: 0.8px;
+margin: 50px 0 40px;
+    color: #FEFCF7;
+font-size: 16px;
+font-family: Barlow;
+font-weight: 400;
+line-height: 26px;
+word-wrap: break-word
+}
+.wrapper_one button{
+    color: #FEFCF7;
+font-size: 18px;
+font-family: Fraunces 9pt;
+font-weight: 900;
+line-height: 25px;
+word-wrap: break-word;
+background-color: #0E8784;
+border: none;
+padding: 5px;
+}
+
+.banner_one{
+    margin-top: 200px;
+   
+}
+.banner_one_img{
+    margin-bottom: 51px;
+}
+.banner_one_title{
+    color: #333D4B;
+font-size: 24px;
+font-family: Fraunces 9pt;
+font-weight: 900;
+line-height: 32px;
+text-align: center;
+margin-bottom: 24px;
+}
+.wrapper_banner_one{
+    align-items: center;
+    margin: 0 auto;
+}
+.banner_one_content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 1280px;
+}
+.banner_one_text{
+    width: 255px;
+color: #333D4B;
+text-align: center;
+font-family: Barlow;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+.banner2{
+    width: 1280px;
+height: 577px;
+top: 1574px;
+left: 80px;
+background-color: #2C343E;
+margin: 170px auto 0;
+padding-top: 115px;
+border-radius: 8px;
+
+}
+.hed{
+    text-align: center;
+    color: #FEFCF7;
+font-size: 40px;
+font-family: Fraunces 9pt;
+font-weight: 900;
+line-height: 48px;
+}
+.het{
+    color: #FEFCF7;
+font-size: 16px;
+font-family: Barlow;
+font-weight: 400;
+line-height: 26px;
+Width: 540px;
+margin: 32px auto 0;
+text-align: center;
+}
+
+.choose{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+}
+.choose_content{
+    width: 250px;
+    height: 300px;
+    background-color: #0E8784;
+    margin: 100px auto 0;
+    width: 350px;
+height: 382px;
+border-radius: 10px;
+text-align: center; 
+
+}
+.choose_img{
+    margin: 72px 0 56px;
+}
+.choose_title{
+    margin-bottom: 24px;
+    color: #FEFCF7;
+font-size: 24px;
+font-family: Fraunces 9pt;
+font-weight: 900;
+line-height: 32px;
+}
+.choose_text{
+    color: #FEFCF7;
+font-size: 16px;
+font-family: Barlow;
+font-weight: 400;
+line-height: 26px;
+width: 255px;
+height: 78px;
+margin: 0 auto;
+}
+.conteynere{
+   width:  1045px;
+   margin: 0 auto;
+}
+.theme{
+    margin-top: 250px;
+}
+.round{
+    width: 31px;
+height: 31px;
+border-radius: 50px;
+border: 2px solid #0E8784;
+display: flex;
+}
+.line{
+    display: flex;
+    width: 350px;
+height: 1px;
+border: 2px solid #FDD6BA;
+}
+.banner3_card{
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+    
+}
+.banner3_wrapper{
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    margin: 67px 0 64px;
+    gap: 96px;
+}
+.number{
+    color: #FDD6BA;
+font-family: Fraunces 9pt;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 72px; /* 100% */
+}
+.h_3{
+    width: 200px;
+color: #333D4B;
+font-family: Fraunces 9pt;
+font-size: 32px;
+font-style: normal;
+font-weight: 900;
+line-height: 36px; 
+margin: 38px 0 43px;
+}
+.pi{
+    width: 285px;
+color: #333D4B;
+font-family: Barlow;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+color: #333D4B;
+}
+.banner3_btn{
+    width: 217px;
+height: 56px;
+flex-shrink: 0;
+border-radius: 6px;
+background: #0E8784;
+color: #FEFCF7;
+text-align: center;
+font-family: Fraunces 9pt;
+font-size: 18px;
+font-style: normal;
+font-weight: 900;
+line-height: 25px; /* 138.889% */
+border: none;
+}
+.theme{
+    color: #83888F;
+font-family: Fraunces 9pt;
+font-size: 24px;
+font-style: normal;
+font-weight: 900;
+line-height: 32px; /* 133.333% */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
